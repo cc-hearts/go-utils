@@ -1,4 +1,4 @@
-module go-utils
+module github.com/cc-hearts/go-utils
 
 go 1.17
 
